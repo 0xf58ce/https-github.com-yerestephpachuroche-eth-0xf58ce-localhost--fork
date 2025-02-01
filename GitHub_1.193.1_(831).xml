@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><manifest versionCode="831" splitTypes="base__density" package="com.github.android" split="config.xxhdpi">
+<application hasCode="false" extractNativeLibs="false">
+<meta-data name="com.android.vending.derived.apk.id" value="3">
+</meta-data>
+</application>
+</manifest>

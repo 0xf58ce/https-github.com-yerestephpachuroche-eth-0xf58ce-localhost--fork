@@ -1,0 +1,93 @@
+"General"
+"Application Name","GitHub"
+"Package Name","com.github.android"
+"Version Name","1.193.1"
+"Version Code","831"
+"System Application","No"
+"App Status","Enabled"
+"First Time Install On","January 25, 2025 09:28 AM"
+"Last Update On","January 25, 2025 09:28 AM"
+"Application Install Source","Google Play Store"
+"Target SDK API","34"
+"Target SDK Version","Unknown"
+"Minimum SDK API","26"
+"Minimum SDK Version","Android 8.0 Oreo"
+"APK Size","39.981 MB"
+"Public Source Dir","/data/app/~~zHn6usSnOPPTDpT45ylNRw==/com.github.android-swRXr9Dp_R5pLjhcCiTraw==/base.apk"
+"Split APKs","split_config.xxhdpi.apk, base.apk, split_config.arm64_v8a.apk"
+"Source Dir","/root/data/app/~~zHn6usSnOPPTDpT45ylNRw==/com.github.android-swRXr9Dp_R5pLjhcCiTraw==/base.apk"
+"Data Dir","/data/user/0/com.github.android"
+"Install Location Code","-1"
+"Install Location","Internal Only"
+"Shared User Label","0"
+"Describe Contents","0"
+"Process Name","com.github.android"
+"UID","10307"
+"Backup Agent Name","--"
+"Main Class Name","com.github.android.GitHubApplication"
+"Compatible Width Limit DP","0"
+"Description","--"
+"Description Res","0"
+"Manage Space Activity Name","--"
+"Native Library Dir","/data/app/~~zHn6usSnOPPTDpT45ylNRw==/com.github.android-swRXr9Dp_R5pLjhcCiTraw==/lib/arm64"
+"Non Localized Label","--"
+"Task Affinity","com.github.android"
+"Theme","2132017495"
+"UI Options","0"
+"Base Revision Code","0"
+"Flags","ALLOW_BACKUP: true
+ALLOW_CLEAR_USER_DATA: true
+ALLOW_TASK_REPARENTING: false
+DEBUGGABLE: false
+EXTERNAL_STORAGE: false
+FACTORY_TEST: false
+FULL_BACKUP_ONLY: false
+HAS_CODE: true
+INSTALLED: true
+IS_DATA_ONLY: false
+IS_GAME: false
+KILL_AFTER_RESTORE: false
+LARGE_HEAP: false
+MULTIARCH: false
+PERSISTENT: false
+RESIZEABLE_FOR_SCREENS: true
+RESTORE_ANY_VERSION: false
+STOPPED: false
+SUPPORTS_LARGE_SCREENS: true
+SUPPORTS_NORMAL_SCREENS: true
+SUPPORTS_RTL: false
+SUPPORTS_SCREEN_DENSITIES: true
+SUPPORTS_SMALL_SCREENS: true
+SUPPORTS_XLARGE_SCREENS: true
+SYSTEM: false
+TEST_ONLY: false
+UPDATES_SYSTEM_APP: false
+VM_SAFE_MODE: false"
+"Library Size","0 Bytes"
+
+"Used Permissions"
+"android.permission.POST_NOTIFICATIONS","android.permission.INTERNET","android.permission.USE_BIOMETRIC","android.permission.USE_FINGERPRINT","com.android.vending.BILLING","android.permission.ACCESS_NETWORK_STATE","android.permission.WAKE_LOCK","com.google.android.c2dm.permission.RECEIVE","android.permission.RECEIVE_BOOT_COMPLETED","android.permission.FOREGROUND_SERVICE","com.github.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+
+"Defined Permissions"
+"com.github.android.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+
+"Activities"
+"com.github.android.main.MainActivity","net.openid.appauth.RedirectUriReceiverActivity","com.github.android.activities.DeepLinkActivity","com.github.android.activities.UnifiedLoginActivity","com.github.android.auth.SimplifiedLoginActivity","com.github.android.auth.ReLoginActivity","com.github.android.issueorpullrequest.IssueOrPullRequestActivity","com.github.android.fileschanged.FilesChangedActivity","com.github.android.fileschanged.RefComparisonFilesChangedActivity","com.github.android.activities.PullRequestsActivity","com.github.android.activities.IssuesActivity","com.github.android.activities.RepositoryIssuesActivity","com.github.android.activities.RepositoryPullRequestsActivity","com.github.android.fileeditor.FileEditorActivity","com.github.android.organizations.OrganizationsActivity","com.github.android.repositories.TopRepositoriesActivity","com.github.android.repositories.RepositoriesActivity","com.github.android.repository.RepositoryActivity","com.github.android.profile.UserOrOrganizationActivity","com.github.android.profile.UserOrOrganizationComposeActivity","com.github.android.users.UsersActivity","com.github.android.settings.SettingsActivity","com.github.android.settings.SettingsNotificationsActivity","com.github.android.settings.SettingsNotificationSchedulesActivity","com.github.android.settings.featurepreview.SettingsFeaturePreviewActivity","com.github.android.settings.privacy.PrivacyAnalyticsActivity","com.github.android.settings.SettingsSwipeActivity","com.github.android.activities.SearchResultsActivity","com.github.android.createissue.CreateIssueComposeActivity","com.github.android.activities.PullRequestReviewActivity","com.github.android.favorites.FavoritesActivity","com.github.android.feed.TrendingActivity","com.github.android.feed.awesometopics.AwesomeListsActivity","com.github.android.feed.filter.FeedFilterActivity","com.github.android.shortcuts.activities.ShortcutsOverviewActivity","com.github.android.favorites.activities.EditMyWorkActivity","com.github.android.shortcuts.activities.ConfigureShortcutActivity","com.github.android.shortcuts.activities.ShortcutViewActivity","com.github.android.shortcuts.activities.ChooseShortcutRepositoryActivity","com.github.android.activities.WebViewActivity","com.github.android.repository.file.RepositoryFileActivity","com.github.android.repository.files.RepositoryFilesActivity","com.github.android.repository.gitobject.RepositoryGitObjectRouterActivity","com.github.android.checks.ChecksActivity","com.github.android.commit.CommitActivity","com.github.android.commits.CommitsActivity","com.github.android.activities.CreateIssueRepoSearchActivity","com.github.android.templates.IssueTemplatesActivity","com.github.android.activities.EditIssueOrPullTitleActivity","com.github.android.settings.codeoptions.CodeOptionsActivity","com.github.android.settings.copilot.CopilotChatSettingsActivity","com.github.android.discussions.DiscussionDetailActivity","com.github.android.discussions.EditDiscussionTitleActivity","com.github.android.accounts.UserAccountsActivity","com.github.android.discussions.RepositoryDiscussionsActivity","com.github.android.discussions.DiscussionCategoryChooserActivity","com.github.android.discussions.replythread.DiscussionCommentReplyThreadActivity","com.github.android.repository.LicenseContentsActivity","com.github.android.deploymentreview.DeploymentReviewActivity","com.github.android.releases.ReleasesActivity","com.github.android.releases.ReleaseActivity","com.github.android.projects.RepositoryProjectsActivity","com.github.android.projects.table.ProjectSimplifiedTableActivity","com.github.android.projects.OwnerProjectActivity","com.github.android.projects.UserProjectsActivity","com.github.android.mergequeue.list.MergeQueueEntriesActivity","com.github.android.starredreposandlists.StarredRepositoriesAndListsActivity","com.github.android.starredreposandlists.createoreditlist.EditListActivity","com.github.android.starredreposandlists.createoreditlist.CreateNewListActivity","com.github.android.starredreposandlists.listdetails.ListDetailActivity","com.github.android.actions.workflowsummary.WorkflowSummaryActivity","com.github.android.actions.checkssummary.ChecksSummaryActivity","com.github.android.actions.checkdetail.CheckDetailActivity","com.github.android.actions.checklog.CheckLogActivity","com.github.android.actions.routing.ActionsRouterActivity","com.github.android.actions.repositoryworkflows.RepositoryWorkflowsActivity","com.github.android.actions.workflowruns.WorkflowRunsActivity","com.github.android.codesearch.GlobalCodeSearchResultsActivity","com.github.android.widget.contribution.ContributionWidgetSettingsActivity","com.github.android.widget.pullrequests.PullRequestsWidgetSettingsActivity","com.github.android.draft.DraftIssueActivity","com.github.android.discussions.CreateDiscussionComposeActivity","com.github.android.discussions.CreateDiscussionRepositorySearchActivity","com.github.android.discussions.HomeDiscussionsActivity","com.github.android.activities.ShareImageActivity","com.github.android.twofactor.TwoFactorActivity","com.github.android.achievements.UserAchievementsActivity","com.github.android.copilot.CopilotChatActivity","com.github.android.settings.copilot.paywall.CopilotChatPaywallActivity","com.github.android.settings.applock.settings.AppLockSettingsActivity","com.github.android.settings.applock.AppLockActivity","com.github.developersettings.DeveloperSettingsActivity","net.openid.appauth.AuthorizationManagementActivity","com.android.billingclient.api.ProxyBillingActivity","com.android.billingclient.api.ProxyBillingActivityV2","com.google.android.gms.common.api.GoogleApiActivity","androidx.glance.appwidget.action.ActionTrampolineActivity","androidx.glance.appwidget.action.InvisibleActionTrampolineActivity","com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+
+"Services"
+"com.github.service.auth.AuthenticatorService","com.github.android.pushnotifications.PushNotificationsService","androidx.appcompat.app.AppLocalesMetadataHolderService","com.google.firebase.components.ComponentDiscoveryService","com.google.firebase.messaging.FirebaseMessagingService","com.google.firebase.sessions.SessionLifecycleService","androidx.glance.appwidget.GlanceRemoteViewsService","androidx.work.impl.background.systemjob.SystemJobService","androidx.work.impl.foreground.SystemForegroundService","androidx.core.widget.RemoteViewsCompatService","androidx.room.MultiInstanceInvalidationService","com.google.android.datatransport.runtime.backends.TransportBackendDiscovery","com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService","es.voghdev.pdfviewpager.library.service.CopyAssetService"
+
+"Content Providers"
+"androidx.startup.InitializationProvider","com.google.firebase.provider.FirebaseInitProvider"
+
+"Broadcast Receivers"
+"com.github.android.widget.contribution.ContributionGlanceWidgetReceiver","com.google.firebase.iid.FirebaseInstanceIdReceiver","androidx.glance.appwidget.action.ActionCallbackBroadcastReceiver","androidx.glance.appwidget.UnmanagedSessionReceiver","androidx.glance.appwidget.MyPackageReplacedReceiver","androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver","androidx.work.impl.background.systemalarm.RescheduleReceiver","androidx.work.impl.diagnostics.DiagnosticsReceiver","androidx.profileinstaller.ProfileInstallReceiver","com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+
+"Data Usage (Approx)","34.943 MB","WiFi: 1.458 MB(Sent) 11.921 MB(Received), Mobile Data: 7.54 MB(Sent) ↓14.024 MB(Received)"
+
+"App Installed Size (Approx): 81.278 MB","App: 58.517 MB, Data: 22.761 MB, Cache: 12.751 MB, External Cache:0 Bytes"
+
+"Generated Via"
+"Package Manager"
+"Package Name","sarangal.packagemanager"
+"Google Play Store","https://play.google.com/store/apps/details?id=sarangal.packagemanager"
